@@ -1,5 +1,5 @@
 # TotalNumberSubLinks
-This Selenium WebDriver / Java / TestNG code example:
+Selenium WebDriver / Java / TestNG code example using CSS Selectors:
 
 Assignment: Write a Test Method that:
 * Opens the website Fitbit.com
